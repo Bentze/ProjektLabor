@@ -1,0 +1,1 @@
+g++ main.cpp $(pkg-config --cflags --libs sdl2) Idozito.h Idozito.cpp Circle.h Circle.cpp Graphics.h Graphics.cpp

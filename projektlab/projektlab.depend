@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1520355216 source:c:\users\eztneb\documents\codeblocks projects\projektlab\circle.cpp
+	"Circle.h"
+
+1520355216 c:\users\eztneb\documents\codeblocks projects\projektlab\circle.h
+	<SDL.h>
+
+1520355216 source:c:\users\eztneb\documents\codeblocks projects\projektlab\idozito.cpp
+	"Idozito.h"
+
+1520355216 c:\users\eztneb\documents\codeblocks projects\projektlab\idozito.h
+	<SDL.h>
+
+1520355216 source:c:\users\eztneb\documents\codeblocks projects\projektlab\main.cpp
+	<SDL.h>
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<stdlib.h>
+	"Idozito.h"
+	"Circle.h"
+	"Graphics.h"
+
+1520355929 c:\users\eztneb\documents\codeblocks projects\projektlab\graphics.h
+	<SDL.h>
+	<map>
+	<string>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"Idozito.h"
+	"Circle.h"
+	"time.h"
+
